@@ -244,6 +244,8 @@ section .title::after{
     object-fit: cover;
 	border-radius: 6px;
 	border: 4px solid blue;
+	background: url("images/pa.gif") no-repeat center;
+
 
 
 }

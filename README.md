@@ -1,3 +1,3 @@
-# dict2_icte10053_ojt
+# dict3_internship
 
 this project is for academic purposes only!!!
